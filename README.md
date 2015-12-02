@@ -96,5 +96,7 @@ $ git checkout <hash ou branch-name> 	#troca de branch
 
 2. Digite comando ```git merge develop```
 
+3. Inserir atributo nome
+
 
 ```
