@@ -41,6 +41,7 @@ $ git commit -m, "Mensagem de Commit"
 ```shell
 
 $ git log
+$ git log --full-diff -p README.md
 
 ```
 
@@ -57,5 +58,21 @@ $ git diff README.md #mostra a diferença desse arquivo para o último commit
 ```shell
 
 # $ git checkout -- README.md #descarta as mudanças do arquivo no último commit
+
+```
+
+##Retornando para versão anterior
+
+```shell
+
+git checkout (cola rash) #retornar para ultimo rash
+
+```
+
+##Retornando para documento original 
+
+```shell
+
+git checkout master #retornar documento original
 
 ```
