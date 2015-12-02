@@ -76,3 +76,13 @@ git checkout (cola rash) #retornar para ultimo rash
 git checkout master #retornar documento original
 
 ```
+
+##Trabalhando com Branch
+
+
+```shell
+
+$ git branch						#listando todas as branchs
+$ git checkout -b <nome da branch>	#cria e troca para nova branch
+
+```
