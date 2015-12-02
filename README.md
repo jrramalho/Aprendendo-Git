@@ -26,3 +26,19 @@ $ git status #mostra o status do repositório
 
 ```
 
+##Realizando um Commit
+
+```shell
+$ git add README.md
+$ git commit -, "Mensagem de Commit"
+
+```
+
+
+##Visualizando os logs
+
+```shell
+
+$ git log
+
+```
