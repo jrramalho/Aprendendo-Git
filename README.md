@@ -18,4 +18,11 @@ $ cd aprendendo-git #entra na pasta
 $ git init #cria um novo repositório
 
 ```
+## git-status
+
+```shell
+
+$ git status #mostra o status do repositório
+
+```
 
