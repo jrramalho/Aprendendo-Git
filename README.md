@@ -29,8 +29,9 @@ $ git status #mostra o status do repositório
 ##Realizando um Commit
 
 ```shell
+
 $ git add README.md
-$ git commit -, "Mensagem de Commit"
+$ git commit -m, "Mensagem de Commit"
 
 ```
 
@@ -40,5 +41,21 @@ $ git commit -, "Mensagem de Commit"
 ```shell
 
 $ git log
+
+```
+
+##Visualizando as diferenças
+
+```shell
+
+$ git diff README.md #mostra a diferença desse arquivo para o último commit
+
+```
+
+##Descartando as mudanças 
+
+```shell
+
+# $ git checkout -- README.md #descarta as mudanças do arquivo no último commit
 
 ```
