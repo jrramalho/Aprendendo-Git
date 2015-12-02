@@ -87,3 +87,14 @@ $ git checkout -b <nome da branch>		#cria e troca para nova branch
 $ git checkout <hash ou branch-name> 	#troca de branch
 
 ```
+
+##Realizando Merge
+
+```shell
+
+1. ir para branch na qual receberá mudança ````git checkout master```
+
+2. Digite comando ```git merge develop```
+
+
+```
