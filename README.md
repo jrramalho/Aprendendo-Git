@@ -82,7 +82,8 @@ git checkout master #retornar documento original
 
 ```shell
 
-$ git branch						#listando todas as branchs
-$ git checkout -b <nome da branch>	#cria e troca para nova branch
+$ git branch							#listando todas as branchs
+$ git checkout -b <nome da branch>		#cria e troca para nova branch
+$ git checkout <hash ou branch-name> 	#troca de branch
 
 ```
