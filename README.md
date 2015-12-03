@@ -84,7 +84,7 @@ $ git checkout <hash ou branch-name> 	#troca de branch
 $ git clone <repositorio a ser contribuido>
 ```
 
-```
+```shell
 
 $ git clone + URL do repositório
 
@@ -92,8 +92,20 @@ $ git clone + URL do repositório
 
 ##ADCIONAR MUDANÇAS COM VARIOS ARQUIVOS
 
-```
+```shell
 
 $ git add . ```Comando para preparar vários arquivos para serem comitados```
 
 ```
+
+
+##PULL
+
+```shell
+
+$ git pull ```Baixa copia de um arquivo para ser avaliado e ajustar as mudanças para posteriormente lançar no rapositório```
+
+```
+
+
+
