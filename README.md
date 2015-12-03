@@ -108,4 +108,16 @@ $ git pull ```Baixa copia de um arquivo para ser avaliado e ajustar as mudanças
 ```
 
 
+##PULL
+
+```shell
+
+$ git rebase --continue ```Cria uma especie de MERGE```
+
+```
+
+
+
+
+
 
