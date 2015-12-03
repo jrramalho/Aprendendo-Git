@@ -100,3 +100,9 @@ $ git checkout <hash ou branch-name> 	#troca de branch
 
 
 ```
+
+## Contribuindo em algum projeto
+
+```shell
+$ git clone <repositorio a ser contribuido>
+```
