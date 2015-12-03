@@ -70,9 +70,28 @@ $ git checkout <hash ou branch-name> 	#troca de branch
 ##Realizando Merge
 
 ```shell
-1. ir para branch na qual receberá mudança ````git checkout master```
+
+1. ir para branch na qual receberá mudança ```git checkout master```
 
 2. Digite comando ```git merge develop```
 
 3. Inserir atributo nome
+
+
+```
+
+##CRIANDO CLONE
+
+```
+
+$ git clone + URL do repositório
+
+```
+
+##ADCIONAR MUDANÇAS COM VARIOS ARQUIVOS
+
+```
+
+$ git add . ```Comando para preparar vários arquivos para serem comitados```
+
 ```
