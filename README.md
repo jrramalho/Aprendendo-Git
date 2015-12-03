@@ -97,3 +97,5 @@ $ git clone + URL do repositório
 $ git add . ```Comando para preparar vários arquivos para serem comitados```
 
 ```
+
+## Trabalhando com branchs em equipe
