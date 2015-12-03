@@ -100,3 +100,19 @@ $ git checkout <hash ou branch-name> 	#troca de branch
 
 
 ```
+
+##CRIANDO CLONE
+
+```
+
+$ git clone + URL do repositório
+
+```
+
+##ADCIONAR MUDANÇAS COM VARIOS ARQUIVOS
+
+```
+
+$ git add .
+
+```
