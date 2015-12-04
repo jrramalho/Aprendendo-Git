@@ -99,6 +99,7 @@ $ git add . ```Comando para preparar vários arquivos para serem comitados```
 ```
 
 
+
 ##PULL
 
 ```shell
@@ -114,9 +115,14 @@ $ git pull ```Baixa copia de um arquivo para ser avaliado e ajustar as mudanças
 
 $ git rebase --continue ```Cria uma especie de MERGE```
 
+##CHECKOUT REMOTO
+
 ```
 
+$ git checkout -t origin/branchName . ```Busca do repositório amarrando com a branch local```
 
+
+```
 
 
 
