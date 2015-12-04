@@ -98,4 +98,14 @@ $ git add . ```Comando para preparar vários arquivos para serem comitados```
 
 ```
 
-## Trabalhando com branchs em equipe
+
+##CHECKOUT REMOTO
+
+```
+
+$ git checkout -t origin/branchName . ```Busca do repositório amarrando com a branch local```
+
+```
+
+
+
