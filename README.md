@@ -124,6 +124,7 @@ $ git checkout -t origin/branchName . ```Busca do repositório amarrando com a b
 
 ```
 
+## Contribuidores
 
-
-
+- Ramalho Junior
+- Jonata Weber
